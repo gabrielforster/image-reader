@@ -1,0 +1,5 @@
+# make a gitignore for a python project
+venv
+*.pyc
+*.pyo
+__pycache__
